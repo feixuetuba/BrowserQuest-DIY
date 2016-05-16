@@ -1,0 +1,14 @@
+#wget http://cdn.mozilla.net/browserquest/audio/music/village.mp3
+wget http://cdn.mozilla.net/browserquest/audio/music/beach.mp3
+wget http://cdn.mozilla.net/browserquest/audio/music/forest.mp3
+wget http://cdn.mozilla.net/browserquest/audio/music/cave.mp3
+wget http://cdn.mozilla.net/browserquest/audio/music/desert.mp3
+wget http://cdn.mozilla.net/browserquest/audio/music/lavaland.mp3
+wget http://cdn.mozilla.net/browserquest/audio/music/boss.mp3
+wget http://cdn.mozilla.net/browserquest/audio/music/village.ogg
+wget http://cdn.mozilla.net/browserquest/audio/music/beach.ogg
+wget http://cdn.mozilla.net/browserquest/audio/music/forest.ogg
+wget http://cdn.mozilla.net/browserquest/audio/music/cave.ogg
+wget http://cdn.mozilla.net/browserquest/audio/music/desert.ogg
+wget http://cdn.mozilla.net/browserquest/audio/music/lavaland.ogg
+wget http://cdn.mozilla.net/browserquest/audio/music/boss.ogg
